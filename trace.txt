@@ -1,0 +1,3 @@
+Somme ; 2 ; 0 ; 2
+Produit ; 2 ; 0 ; 0
+Factorielle ; 2 ; 2
