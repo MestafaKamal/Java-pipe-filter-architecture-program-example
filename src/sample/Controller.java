@@ -77,11 +77,9 @@ public class Controller {
     }
 
     private Pipe p;
-
     public void initPipe(Pipe p){
         this.p = p;
     }
-
     public void lancer(){
         Comp1 calcul = new Comp1(pipe1,pipe2);
         Thread thread1 = new Thread(calcul);
