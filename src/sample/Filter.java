@@ -1,7 +1,7 @@
 package sample;
 
 
-/*Filter class*/
+/* Filter class */
 abstract class Filter implements Runnable{
     
     Pipe outPipe;

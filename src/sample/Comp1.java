@@ -1,7 +1,9 @@
 package sample;
 
 
-
+/*
+* Comp1 is the module that makes the calculating operations on data. It passes the result to Comp2
+* */
 public class Comp1 extends Filter {
 
     public Comp1(Pipe entree, Pipe sortie){
