@@ -12,7 +12,6 @@ import java.nio.file.Paths;
 public class Controller {
     @FXML
     private JFXTextField oper1;
-
     @FXML
     private JFXTextField oper2;
 
